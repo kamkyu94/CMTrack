@@ -18,22 +18,22 @@ Save weights files under "./weights/"
 ## Run
 Detection results will be created under "../outputs/1. det/" as pickle files
 ```
-# For the MOT17 validation set
+# For MOT17 validation
 python detect.py -f "exps/yolox_x_mot17_val.py" -c "weights/mot17_train_half.pth.tar" -b 1 -d 1 -n "../outputs/1. det/mot17_val_half.pickle" --fp16 --fuse
 
-# For the MOT17 test set
+# For MOT17 test
 python detect.py -f "exps/yolox_x_mot17_test.py" -c "weights/mot7_train.pth.tar" -b 1 -d 1 -n "../outputs/1. det/mot17_test.pickle" --fp16 --fuse
 
-# For the MOT20 validation
+# For MOT20 validation
 python detect.py -f "exps/yolox_x_mot20_val.py" -c "weights/mot20_train_half.pth.tar" -b 1 -d 1 -n "../outputs/1. det/mot20_val_half.pickle" --fp16 --fuse
 
-# For the MOT20 test
+# For MOT20 test
 python detect.py -f "exps/yolox_x_mot20_test.py" -c "weights/mot20_train.pth.tar" -b 1 -d 1 -n "../outputs/1. det/mot20_test.pickle" --fp16 --fuse
 
-# For the DanceTrack val
+# For DanceTrack val
 python detect.py -f "exps/yolox_x_dance_val.py" -c "weights/dance_train.pth.tar" -b 1 -d 1 -n "../outputs/1. det/dance_val.pickle" --fp16 --fuse
 
-# For the DanceTrack test
+# For DanceTrack test
 python detect.py -f "exps/yolox_x_dance_test.py" -c "weights/dance_train.pth.tar" -b 1 -d 1 -n "../outputs/1. det/dance_test.pickle" --fp16 --fuse
 
 ```
