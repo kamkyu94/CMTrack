@@ -4,7 +4,7 @@ Save weights files under "./weights/"
 
 
 ## Run
-Detection + feature extractionResults will be created under "../outputs/2. det_feat/" as pickle files
+Detection + feature extraction results will be created under "../outputs/2. det_feat/" as pickle files
 ```
 python ext_feat.py
 ```
