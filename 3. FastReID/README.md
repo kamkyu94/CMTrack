@@ -21,4 +21,4 @@ python ext_feats.py --dataset "mot20" --pickle_path "../outputs/1. det/MOT20_tes
 ```
 
 ## Reference
-This code is revised from https://github.com/JDAI-CV/fast-reid
+  - https://github.com/JDAI-CV/fast-reid
