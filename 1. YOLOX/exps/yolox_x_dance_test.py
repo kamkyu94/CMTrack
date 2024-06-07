@@ -17,7 +17,7 @@ class Exp(MyExp):
         self.width = 1.25
         self.exp_name = 'dance_train'
         self.train_ann = "dance_train.json"
-        self.val_ann = "dance_val.json"
+        self.val_ann = "dance_test.json"
         self.input_size = (800, 1440)
         self.test_size = (800, 1440)
         self.random_size = (18, 32)
