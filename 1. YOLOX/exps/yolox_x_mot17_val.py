@@ -17,7 +17,7 @@ class Exp(MyExp):
         self.width = 1.25
         self.exp_name = 'mot17_train'
         self.train_ann = "mot17_train.json"
-        self.val_ann = "mot17_val.json"    # change to train.json when running on training set
+        self.val_ann = "mot17_val.json"
         self.input_size = (800, 1440)
         self.test_size = (800, 1440)
         self.random_size = (18, 32)
