@@ -1,8 +1,8 @@
 ## Datasets
 Save .json files under "./datasets/" 
-  - mot17_val_half.json: https://drive.google.com/file/d/1JFwLgTQckApe-gvFYf1Je05DPKf5pNUx/view?usp=drive_link
+  - mot17_val.json: https://drive.google.com/file/d/1JFwLgTQckApe-gvFYf1Je05DPKf5pNUx/view?usp=drive_link
   - mot17_test.json: https://drive.google.com/file/d/1EGDJ12QTDKbA1GChs7lNi9pmVXOBOktC/view?usp=drive_link
-  - mot20_val_half.json: https://drive.google.com/file/d/12dwVn3qLO0L3IAOSJcVdYzpWhlOXmIFY/view?usp=drive_link
+  - mot20_val.json: https://drive.google.com/file/d/12dwVn3qLO0L3IAOSJcVdYzpWhlOXmIFY/view?usp=drive_link
   - mot20_test.json: https://drive.google.com/file/d/1X6wyBOmtI6IFguAktNjoQ0zg0ZhNDGi2/view?usp=drive_link
   - dance_val.json: https://drive.google.com/file/d/1IPqV3yer6V55JmGO-tBih_N0R8mx2NRN/view?usp=drive_link
   - dance_test.json: https://drive.google.com/file/d/1zs2qeEBpPcFkz87PGG9pfsUE2_GEUcSF/view?usp=drive_link
