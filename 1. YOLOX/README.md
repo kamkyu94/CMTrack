@@ -10,7 +10,7 @@ Save .json files under "./datasets/"
 ## Model Zoo
 Save weights files under "./weights/"
   - [mot17_train_half.pth.tar](https://drive.google.com/file/d/1zQp2kLqCz25zMnOEIUSeS3i-mj_Wsj4Z/view?usp=drive_link)
-  - [mot7_train.pth.tar](https://drive.google.com/file/d/1OBazmX6rLdOdgvbnhIcU2up9YL2O_B9T/view?usp=drive_link)
+  - [mot17_train.pth.tar](https://drive.google.com/file/d/1OBazmX6rLdOdgvbnhIcU2up9YL2O_B9T/view?usp=drive_link)
   - [mot20_train_half.pth.tar](https://drive.google.com/file/d/1QQ58QjcJUFmyxfamyDm2nvT06VmDT_1J/view?usp=drive_link)
   - [mot20_train.pth.tar](https://drive.google.com/file/d/16lDABxaV8SXibDDV-8Nq3O8NgYQ1Ahrb/view?usp=drive_link)
   - [dance_train.pth.tar](https://drive.google.com/file/d/1P1EMFAx7vR212E9ldESevY5w1gOAaZDl/view?usp=drive_link)
