@@ -9,7 +9,7 @@ Save weights files under "./weights/"
 Detection + feature extraction results will be created under "../outputs/2. det_feat/" as pickle files
 ```
 # For MOT17 test
-python ext_feats.py --dataset "mot20"
+python ext_feats.py --dataset "mot17"
 
 # For MOT20 test
 python ext_feats.py --dataset "mot20"
