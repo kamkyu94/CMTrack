@@ -1,6 +1,6 @@
 # CMTrack
 Official code for "A Confidence-Aware Matching Strategy For Generalized Multi-Object Tracking", ICIP, 2024
-  - https://cmsworkshops.com/ICIP2024/view_paper.php?PaperNum=1119
+  - https://ieeexplore.ieee.org/document/10647729
 
 
 ## Environment
