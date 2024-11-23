@@ -2,6 +2,9 @@
 Official code for "A Confidence-Aware Matching Strategy For Generalized Multi-Object Tracking", ICIP, 2024
   - https://ieeexplore.ieee.org/document/10647729
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-confidence-aware-matching-strategy-for/multi-object-tracking-on-mot17)](https://paperswithcode.com/sota/multi-object-tracking-on-mot17?p=a-confidence-aware-matching-strategy-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-confidence-aware-matching-strategy-for/multi-object-tracking-on-mot20-1)](https://paperswithcode.com/sota/multi-object-tracking-on-mot20-1?p=a-confidence-aware-matching-strategy-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-confidence-aware-matching-strategy-for/multi-object-tracking-on-dancetrack)](https://paperswithcode.com/sota/multi-object-tracking-on-dancetrack?p=a-confidence-aware-matching-strategy-for)
 
 ## Environment
 Developed in python3.8, pytorch 1.13
